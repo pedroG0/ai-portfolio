@@ -1,0 +1,11 @@
+# Este projeto foi desenvolvido utilizando exclusivamente a Biblioteca Padrão do Python (Python Standard Library).
+# Nenhuma dependência externa é estritamente necessária para rodar os algoritmos.
+#
+# Compatibilidade: Python 3.8+ (Recomendado: Python 3.10+)
+#
+# Módulos utilizados:
+# - heapq (Filas de prioridade / Weighted A*)
+# - random (Estocástica / Busca Tabu, AG e Min-Conflicts)
+# - copy (Clonagem de estados)
+# - collections (Filas e estruturas auxiliares)
+# - typing (Anotações de tipo e clareza de código)
