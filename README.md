@@ -117,35 +117,37 @@ Exploração dos paradigmas indutivos da Engenharia de Sistemas Inteligentes:
 
 ## 🚀 Guia de Execução
 
-### Pré-requisitos
-- **Python 3.8 ou superior** (Recomendado: Python 3.10+).
-- Nenhuma dependência externa requerida para o Módulo de Métodos Clássicos.
+Cada algoritmo foi projetado como um script independente e autocontido, sem dependências externas (utilizando exclusivamente a biblioteca padrão do Python).
 
-### 1. Executor Unificado Interativo via CLI (`main.py`)
-O repositório disponibiliza um executor centralizado:
-
-```bash
-# Iniciar o menu interativo:
-python main.py
-
-# Ou executar todos os 6 algoritmos clássicos em sequência:
-python main.py --all
-
-# Ou executar diretamente um algoritmo específico (ex.: 2 para Weighted A*):
-python main.py 2
-```
+### 1. Clonar o Repositório
+`ash
+git clone https://github.com/pedroG0/ai-portfolio.git
+cd ai-portfolio
+`
 
 ### 2. Execução Direta dos Scripts Individuais
-Os scripts também podem ser executados isoladamente:
 
-```bash
+Você pode rodar qualquer um dos algoritmos diretamente pelo terminal a partir da raiz do repositório:
+
+`ash
+# 01. Busca Não Informada (IDDFS: Jarros de Água e Mapa da Romênia)
 python Algoritimos_Classicos/01_busca_nao_informada.py
+
+# 02. Busca Informada (Weighted A*: Mapa da Romênia e 15-Puzzle)
 python Algoritimos_Classicos/02_busca_informada.py
+
+# 03. Busca Complexa / Local (Busca Tabu: Maximização de Função e TSP)
 python Algoritimos_Classicos/03_busca_complexa.py
+
+# 04. Algoritmo Genético (OX1 e Elitismo: 8 Damas e TSP)
 python Algoritimos_Classicos/04_algoritimo_genetico.py
+
+# 05. CSP (Min-Conflicts: Coloração da Austrália e N-Damas N=50)
 python Algoritimos_Classicos/05_CSP.py
+
+# 06. Banco de Conhecimento (Forward/Backward Chaining: Wumpus e Diagnóstico TI)
 python Algoritimos_Classicos/06_banco_de_conhecimento.py
-```
+`
 
 ---
 
@@ -175,7 +177,6 @@ IA/
 │
 ├── .gitignore                                                      # Regras de exclusão Git
 ├── LICENSE                                                         # Licença MIT de código aberto
-├── main.py                                                         # CLI unificada para execução das atividades
 ├── README.md                                                       # Documentação técnica central
 └── requirements.txt                                                # Especificações de ambiente
 ```
