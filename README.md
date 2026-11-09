@@ -8,10 +8,10 @@
 [![UnB](https://img.shields.io/badge/UnB-FGA-003366.svg)](https://fga.unb.br/)
 [![Status](https://img.shields.io/badge/Status-Em%20Progresso-blue.svg)]()
 
-**Pedro Gomes Oliveira** — Matrícula: `211031440`  
+**Pedro Gomes Oliveira** 
 Engenharia de Software — Faculdade de Ciências e Tecnologias em Engenharia (FGA / FCTE)  
 **Universidade de Brasília (UnB)**  
-*Docente Responsável: Prof. Dr. Fabiano Araujo Soares*
+
 
 </div>
 
@@ -68,7 +68,7 @@ flowchart TD
   - Tipologias de agentes inteligentes e mapeamento de ambientes de tarefas (PEAS: *Performance, Environment, Actuators, Sensors*).
   - Conceito formal de racionalidade e análise de impacto ético, benefícios e riscos.
 * **Documento Consolidado:**
-  - 📑 **[Resenha Crítica Ampliada (PDF)](Introdução_IA/PedroGomes_211031440.pdf)** — Autoria de Pedro Gomes Oliveira.
+  - 📑 **[Resenha Crítica Ampliada (PDF)](Introdução_IA/Resenha_Critica_IA_PedroGomes.pdf)** — Autoria de Pedro Gomes Oliveira.
 
 ---
 
@@ -90,8 +90,8 @@ Todos os algoritmos foram projetados **sem dependências externas**, utilizando 
 | **06** | **Forward & Backward Chaining** | Agente Lógico no Mundo do Wumpus (Cláusulas de Horn) | Sistema Especialista para Diagnóstico de Falhas em Redes / TI | [`06_banco_de_conhecimento.py`](Algoritimos_Classicos/06_banco_de_conhecimento.py) |
 
 ### 📄 Documentação e Relatórios do Módulo 2
-* 📑 **[Relatório Técnico Consolidado (PDF)](Algoritimos_Classicos/relatorio_metodos_classicos_ia_PedroGomes_211031440.pdf)** — Relatório técnico com deduções teóricas, gráficos e métricas de desempenho.
-* 📝 **[Documento Fonte Editável (DOCX)](Algoritimos_Classicos/relatorio_metodos_classicos_ia_PedroGomes_211031440.docx)**.
+* 📑 **[Relatório Técnico Consolidado (PDF)](Algoritimos_Classicos/relatorio_metodos_classicos_ia_Resenha_Critica_IA_PedroGomes.pdf)** — Relatório técnico com deduções teóricas, gráficos e métricas de desempenho.
+* 📝 **[Documento Fonte Editável (DOCX)](Algoritimos_Classicos/relatorio_metodos_classicos_ia_PedroGomes.docx)**.
 * 📝 **[Memória Descritiva dos Algoritmos (DOCX)](Algoritimos_Classicos/Algoritimos_entrega2.docx)**.
 
 ---
@@ -154,7 +154,7 @@ python Algoritimos_Classicos/06_banco_de_conhecimento.py
 ```bash
 IA/
 ├── Introdução_IA/                                                   # ATIVIDADE 1: INTRODUÇÃO À IA
-│   └── PedroGomes_211031440.pdf                                    # Resenha crítica ampliada oficial
+│   └── Resenha_Critica_IA_PedroGomes.pdf                                    # Resenha crítica ampliada oficial
 │
 ├── Algoritimos_Classicos/                                          # ATIVIDADE 2: MÉTODOS CLÁSSICOS DE IA
 │   ├── 01_busca_nao_informada.py                                   # IDDFS (Jarros e Romênia)
@@ -164,8 +164,8 @@ IA/
 │   ├── 05_CSP.py                                                   # Min-Conflicts (Austrália e N-Damas)
 │   ├── 06_banco_de_conhecimento.py                                 # Forward & Backward Chaining (Wumpus e TI)
 │   ├── Algoritimos_entrega2.docx                                   # Memória de cálculo descritiva
-│   ├── relatorio_metodos_classicos_ia_PedroGomes_211031440.pdf     # Relatório técnico consolidado
-│   └── relatorio_metodos_classicos_ia_PedroGomes_211031440.docx    # Documento acadêmico editável
+│   ├── relatorio_metodos_classicos_ia_Resenha_Critica_IA_PedroGomes.pdf     # Relatório técnico consolidado
+│   └── relatorio_metodos_classicos_ia_PedroGomes.docx    # Documento acadêmico editável
 │
 ├── Tratando_Incerteza/                                             # ATIVIDADE 3: TRATANDO INCERTEZA (Em breve)
 │   └── .gitkeep
@@ -197,7 +197,7 @@ IA/
 
 | Perfil | Identificação Acadêmica |
 |:---:|:---|
-| <img src="https://github.com/pedroG0.png" width="105px;" alt="Pedro Gomes Oliveira"/><br /><sub><b>Pedro Gomes Oliveira</b></sub> | **Estudante:** Pedro Gomes Oliveira<br/>**Matrícula:** 211031440<br/>**Instituição:** Universidade de Brasília (UnB)<br/>**Campus:** Faculdade de Ciências e Tecnologias em Engenharia (FGA / FCTE)<br/>**Curso:** Engenharia de Software<br/>**Disciplina:** FGA0221 – Inteligência Artificial (Turma T01)<br/>**Orientador:** Dr. Fabiano Araujo Soares<br/>**GitHub:** [@pedroG0](https://github.com/pedroG0) |
+| <img src="https://github.com/pedroG0.png" width="105px;" alt="Pedro Gomes Oliveira"/><br /><sub><b>Pedro Gomes Oliveira</b></sub> | **Estudante:** Pedro Gomes Oliveira<br/>**Instituição:** Universidade de Brasília (UnB)<br/>**Campus:** Faculdade de Ciências e Tecnologias em Engenharia (FGA / FCTE)<br/>**Curso:** Engenharia de Software<br/>**Disciplina:** FGA0221 – Inteligência Artificial (Turma T01)<br/>**Orientador:** Dr. Fabiano Araujo Soares<br/>**GitHub:** [@pedroG0](https://github.com/pedroG0) |
 
 ---
 
