@@ -197,7 +197,7 @@ IA/
 
 | Perfil | Identificação Acadêmica |
 |:---:|:---|
-| <img src="https://github.com/pedrogomesoliveira.png" width="105px;" alt="Pedro Gomes Oliveira"/><br /><sub><b>Pedro Gomes Oliveira</b></sub> | **Estudante:** Pedro Gomes Oliveira<br/>**Matrícula:** 211031440<br/>**Instituição:** Universidade de Brasília (UnB)<br/>**Campus:** Faculdade de Ciências e Tecnologias em Engenharia (FGA / FCTE)<br/>**Curso:** Engenharia de Software<br/>**Disciplina:** FGA0221 – Inteligência Artificial (Turma T01)<br/>**Orientador:** Dr. Fabiano Araujo Soares<br/>**GitHub:** [@pedrogomesoliveira](https://github.com/pedrogomesoliveira) |
+| <img src="https://github.com/pedroG0.png" width="105px;" alt="Pedro Gomes Oliveira"/><br /><sub><b>Pedro Gomes Oliveira</b></sub> | **Estudante:** Pedro Gomes Oliveira<br/>**Matrícula:** 211031440<br/>**Instituição:** Universidade de Brasília (UnB)<br/>**Campus:** Faculdade de Ciências e Tecnologias em Engenharia (FGA / FCTE)<br/>**Curso:** Engenharia de Software<br/>**Disciplina:** FGA0221 – Inteligência Artificial (Turma T01)<br/>**Orientador:** Dr. Fabiano Araujo Soares<br/>**GitHub:** [@pedroG0](https://github.com/pedroG0) |
 
 ---
 
